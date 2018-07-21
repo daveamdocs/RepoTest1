@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is C8FC-B6CC
+
+ Directory of C:\Users\davidbro\Desktop\GitTestRep
+
+07/20/2018  09:57 PM                 0 filtest1.txt
+07/20/2018  03:11 PM                 0 newchange.txt
+07/20/2018  03:11 PM                 6 testgit.txt
+               3 File(s)              6 bytes
+               0 Dir(s)  145,662,918,656 bytes free
